@@ -1,0 +1,11 @@
+.footer{
+    background-color: #012a4c;
+    padding: 6rem 0;
+    color: #fff;
+}
+
+.footer__contact {
+    list-style-type: none;
+    color: #fefefe;
+    font-size: 1.8rem;
+}

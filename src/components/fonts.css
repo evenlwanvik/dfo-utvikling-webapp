@@ -1,0 +1,18 @@
+h1, h2, h3 {
+	font-family:"Source Serif Pro";
+	font-weight:700;
+	line-height:1.25em;
+	color:#012a4c;
+}
+h4 {
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:1.25em;
+	color:#012a4c;
+}
+h5 {
+	font-family:"Source Serif Pro";
+	font-weight:600;
+	line-height:1.25em;
+	color:#012a4c;
+}
