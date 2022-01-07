@@ -80,7 +80,7 @@ function NavBottom(){
             <p class="h2 nav-heading"> Oppslag </p>
             <ul class="nav__links">
               <li class="nav__item">
-                <a class="nav__link" href="/dfø.no">
+                <a class="nav__link" href="https://www.dfo.no">
                   <div class="nav__link__content">
                     DFØ hjemmeside
                   </div>
